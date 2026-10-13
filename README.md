@@ -16,7 +16,7 @@ Bulk Crap Uninstaller is licensed under Apache 2.0 open source license, and can 
 [Read the online documentation](https://htmlpreview.github.io/?https://github.com/Klocman/Bulk-Crap-Uninstaller/blob/master/doc/BCU_manual.html) if you have any questions or issues (the help file included with all releases). If you didn't find an answer to your question, feel free to [open a new issue](https://github.com/Klocman/Bulk-Crap-Uninstaller/issues/new).
 
 ## Download
-You can get the latest version from the releases page. Alternatively you can download it from one of these hosts:
+You can get the latest version from our [releases page](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller/releases). Alternatively you can download it from one of these hosts:
 - [Download from dAppCDN](https://dappcdn.com/download/utilities/bulk-crap-uninstaller)
 - [Download from SourceForge](https://sourceforge.net/projects/bulk-crap-uninstaller/)
 - [Download from FossHub](https://www.fosshub.com/Bulk-Crap-Uninstaller.html)
